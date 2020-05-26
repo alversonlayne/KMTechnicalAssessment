@@ -1,0 +1,32 @@
+.o {
+  color: #000;
+  font-weight: 700;
+}
+.c1 {
+  color: #998;
+  font-style: italic;
+}
+.gt {
+  color: #a00;
+}
+.kc,
+.kr {
+  color: #000;
+  font-weight: 700;
+}
+.s {
+  color: #d01040;
+}
+.no {
+  color: teal;
+}
+.nt {
+  color: navy;
+}
+.mi {
+  color: #099;
+}
+.s1,
+.s2 {
+  color: #d01040;
+}
